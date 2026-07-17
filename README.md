@@ -1,4 +1,4 @@
-[Socioeconomic determinants of International Football Performance](assets/project-banner.png)
+![Socioeconomic determinants of International Football Performance](assets/project-banner.png)
 
 # Socioeconomic Determinants of International Football Performance
 
